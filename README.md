@@ -8,6 +8,7 @@ Interests:
 - Data Pipeline
 - Data Processing
 - Distributed Computing
+- Data Visualization
 
 
 <!--
