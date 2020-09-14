@@ -2,7 +2,13 @@
 
 I am very passionate about Data Processing / Munging and have great interests in Data Engineering.
 
-I am currently learning Airflow and Spark, looking to apply them to my next project.
+I am currently working on a ETL pipline using Apache Airflow.
+
+Interests:
+- Data Pipeline
+- Data Processing
+- Distributed Computing
+
 
 <!--
 **Masamerc/Masamerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
