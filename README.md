@@ -12,4 +12,4 @@ Looking for people to work with on (fun) projects.
 | Docker          |                          |
 | NoSQL           |                          |
 
-![Masa's github stats](https://github-readme-stats.vercel.app/api?username=Masamerc&show_icons=true&theme=onedark)
+![Masa's github stats](https://github-readme-stats.vercel.app/api?username=Masamerc&show_icons=true&theme=graywhite)
