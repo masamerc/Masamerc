@@ -12,6 +12,4 @@ Looking for people to work with on (fun) projects.
 | Docker          |                          |
 | NoSQL           |                          |
 
-[![Masa's github stats](https://github-readme-stats.vercel.app/api?username=Masamerc)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masamerc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Masa's github stats](https://github-readme-stats.vercel.app/api?username=Masamerc?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
