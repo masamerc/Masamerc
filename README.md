@@ -3,7 +3,7 @@
 I am very passionate about Data Processing / Munging and have great interests in Data Engineering.
 Looking for people to work with on (fun) projects.
 
-Skills:
+**Skills**:
 - Python
 - SQL
 - (Novice) Scala
@@ -12,7 +12,7 @@ Skills:
 - Docker
 - NoSQL
 
-Interests:
+**Interests**:
 - Data Pipeline
 - Data Processing
 - Distributed Computing
