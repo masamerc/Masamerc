@@ -1,7 +1,5 @@
-### Hi there 👋
-
-I am very passionate about Data Processing / Munging and have great interests in Data Engineering.
-Looking for people to work with on (fun) projects.
+Very passionate about Data Processing / Munging and have great interests in Data Engineering.
+Currenty coding for fun / as a hobby, but also looking to find career in the data engineer / backend field.
 
 | **Skills**      | **Interests**            |
 |-----------------|--------------------------|
