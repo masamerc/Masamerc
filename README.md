@@ -11,14 +11,14 @@ Currenty coding for fun / as a hobby, but also looking to find career in the dat
 | Docker          |
 | NoSQL           |
 
+
 | **Interests**            |
 |--------------------------|
 | Data Pipeline            |
 | Data Munging / Wrangling |
 | Distributed Computing    |
 | Data Vizualization       |
-|                          |
-|                          |
+
 
 
 ![Masa's github stats](https://github-readme-stats.vercel.app/api?username=Masamerc&show_icons=true&theme=graywhite)
