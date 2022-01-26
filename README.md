@@ -12,6 +12,9 @@ Currenty coding for fun / as a hobby, but also looking to find career in the dat
 | NoSQL           |
 
 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+
+
 | **Interests**            |
 |--------------------------|
 | Data Pipeline            |
