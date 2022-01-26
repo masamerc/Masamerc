@@ -11,8 +11,7 @@ Currenty coding for fun / as a hobby, but also looking to find career in the dat
 | Docker          |
 | NoSQL           |
 
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
 
 
 | **Interests**            |
