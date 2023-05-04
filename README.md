@@ -19,14 +19,6 @@ Airflow <img src="https://www.svgrepo.com/show/353380/airflow.svg" width="25" he
 
 ---
 
-## Main Interests
-| **Interests**            |
-|--------------------------|
-| Data Pipeline            |
-| Data Munging / Wrangling |
-| Distributed Computing    |
-| Data Vizualization       |
-
 
 
 ![Masa's github stats](https://github-readme-stats.vercel.app/api?username=Masamerc&show_icons=true&theme=graywhite)
