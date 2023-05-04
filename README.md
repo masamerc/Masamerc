@@ -1,18 +1,13 @@
 ## Greetings 👍
-Just a guy who is very passionate about Data Processing / Data Munging and has great interests in Data Engineering and Software Engineering in general.
-Currenty coding for fun / as a hobby, but also looking to find career in the data engineer / backend field.
+Professionally a Data Engineer but I like to work on anything that's cool we can achieve with Software Engineering.
 
 ---
-
-## Favorite Languages and Tools
-<p align="left">
-Python
-Docker
-Linux (Mostly Debian)
-Golang
-Scala (Just Enough for Spark)
-</p>
-
+## Tools of Choice
+- Python
+- Docker
+- Linux (Mostly Debian)
+- Golang
+- Scala (Just Enough for Spark)
 ---
 
 
