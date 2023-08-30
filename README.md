@@ -1,6 +1,5 @@
-## Greetings 👍
-Professionally a Data Engineer but I like to work on anything that's cool we can achieve with Software Engineering as a hobbyist.
-
+## Greetings 
+Professionally a Data Engineer
 ---
 ## Tools of Choice
 - Python
@@ -8,4 +7,5 @@ Professionally a Data Engineer but I like to work on anything that's cool we can
 - Linux
 - Golang
 - Scala (Just Enough for Spark)
----
+- AWS
+- K8S
