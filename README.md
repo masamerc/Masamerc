@@ -1,9 +1,7 @@
-## Greetings 
+# Greetings 
 Professionally a Data Engineer, but as a hobbyist I like to work on anything.
 
----
-
-## Tech Stack
+# Tech Stack
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
@@ -14,6 +12,6 @@ Professionally a Data Engineer, but as a hobbyist I like to work on anything.
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 - ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 
-## Learning
+# Learning
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 - ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&logoColor=gold)
