@@ -1,10 +1,10 @@
 # Greetings 
 Professionally a Data Engineer, but as a hobbyist I like to work on anything.
 
-# Tech Stack
+# Toolkit
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-
+- ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 - ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
